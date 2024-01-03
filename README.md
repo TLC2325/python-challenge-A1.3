@@ -13,6 +13,7 @@ Part 1 - Using a list, you will be required to calculate and print to the consol
 The number of students' marks in the data sample.
 The lowest and highest marks.
 The average mark, formatted to two decimal places.
+
 Part 2 - you will be required to write code to process the data and calculate how many instances of marks in the categories shown below. Alongside each category you should print out one asterisk for each occurrence. As an example, the category 10-20 has four occurrences (13, 17, 16, & 14) and therefore has four asterisks, e.g.:
 ```
 Mark Count   0 - 10 0   10 - 20 4 **** 20 - 30 7 ******* 30 - 40 8 ******** 40-50 11 *********** 50 - 60 9 ********* 60 -70 8 ********
